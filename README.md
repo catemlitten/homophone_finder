@@ -1,6 +1,6 @@
 ## Homophone Finder
 
-This is a simple script with takes in a raw text file of Japanese words and finds homophones. Potentially it could also be modified to create a list for Chinese homophones as well.
+This is a simple script with takes in a raw text file of Japanese words and finds homophones.
 
 A sample list was included with this repo, a simple frequency list of 1000 words taken from Offbeat Band [here](http://www.offbeatband.com/2010/12/the-most-commonly-used-japanese-words-by-frequency/). You can use any list you like, but the format will need to match the one provided, ie:
 ```
